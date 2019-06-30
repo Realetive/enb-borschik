@@ -21,7 +21,7 @@
     "enb": ">= 0.16.0 < 2.0.0"
   },
   "dependencies": {
-    "borschik": "2.0.0",
+    "borschik": "github:Realetive/borschik#master",
     "inherit": "2.2.6",
     "vow": "0.4.16"
   },
